@@ -18,4 +18,4 @@ https://github.com/gabrielfroes/webscraping_python_selenium
   
 # Geckodriver
 
-You can find install instructions in the official repository. 
+Instruções de instação no repositório oficial -->  https://github.com/mozilla/geckodriver/releases
