@@ -1,4 +1,4 @@
-# webscraping_python_selenium_base_-gabrielfroes
+# webscraping_python_selenium_base_gabrielfroes
 
 - projeto baseado
 
