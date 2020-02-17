@@ -12,7 +12,7 @@
   - (pipenv shell) - para acessar o ambiente isolado virtual
   - isso se vc estiver na raiz do projeto
   - python codigo/versao1/webscraping.py
-  ou
+  - ou
   - python codigo/versaoFinal/webscraping.py
   
   
