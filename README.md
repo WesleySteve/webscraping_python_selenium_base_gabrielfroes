@@ -2,7 +2,7 @@
 
 - projeto baseado
 
-target="_blank" https://github.com/gabrielfroes/webscraping_python_selenium
+ https://github.com/gabrielfroes/webscraping_python_selenium
 
 
 # para rodar o projeto
