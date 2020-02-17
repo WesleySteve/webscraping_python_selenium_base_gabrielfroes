@@ -14,3 +14,8 @@ https://github.com/gabrielfroes/webscraping_python_selenium
   - python codigo/versao1/webscraping.py
   ou
   - python codigo/versaoFinal/webscraping.py
+  
+  
+# Geckodriver
+
+You can find install instructions in the official repository. 
